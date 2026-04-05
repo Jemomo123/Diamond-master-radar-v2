@@ -1,0 +1,6 @@
+streamlit
+pandas
+ccxt
+requests
+numpy
+python-dateutil
